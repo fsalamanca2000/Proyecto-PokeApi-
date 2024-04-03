@@ -1,2 +1,2 @@
-# Proyecto-PokeApi-
-Un pequeño proyecto de consulta de API donde se podra buscar pokemones por voz o por escrito
+# proyecto-PokeAPI
+## You can search a lot of pictures about pokemons with it´s name (using text or your voice) 
